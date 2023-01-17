@@ -1,0 +1,9 @@
+body{
+    height: auto;
+
+}
+p{
+    background-color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color: lightblue;
+}

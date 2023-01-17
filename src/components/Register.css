@@ -1,0 +1,39 @@
+.formTag{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+    padding: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 100px;
+    background-color: #dc9fb0;
+}
+.inputBox1{
+    font-size: 25px;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 5px;
+}
+.inputBox2{
+    font-size: 25px;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 5px;
+}
+.inputBox3{
+    font-size: 25px;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 5x;
+}
+.submitButton{
+    font-size: 25px;
+    margin: 5px;
+}
+.headingPage{
+    color: whitesmoke;
+    font-weight: bold;
+}
